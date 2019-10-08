@@ -18,4 +18,4 @@ We have the GET requests for all of our pages and one POST route to add a new cr
 | PUT | /cryptids/:id | Update (Update) | edits a specific cryptid |
 | DELETE | /cryptids/:id | Destroy (Delete) | destroys a specific cryptid (:id would be replaced by an actual number 1) |
 
-You can add another GET route for a specific edit page or put your form(s) into the show route.
+You can add another GET route for a specific edit page or put your form into the show route.
